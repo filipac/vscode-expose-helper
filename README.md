@@ -7,5 +7,7 @@ This is still WIP, I just needed something simple to get started, there are plen
 ## Features
 
 - Commands to serve, stop or reload the expose server.
+  ![commands](https://raw.githubusercontent.com/filipac/vscode-expose-helper/master/static/commands.png)
 - Status bar indicator that shows if expose is running. On click it toggles.
+- ![status bar](https://raw.githubusercontent.com/filipac/vscode-expose-helper/master/static/status.png)
 - Embedded expose binary if `expose` is not in your PATH.
