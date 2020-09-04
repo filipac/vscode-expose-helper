@@ -67,6 +67,10 @@ export default class CommandController {
     this.startServer();
   };
 
+  serverIsRunning = (): boolean => {
+    return this.server.isRunning();
+  };
+
   stopServer = (): void => {
     if (this.server.isRunning()) {
       this.server.stop();
