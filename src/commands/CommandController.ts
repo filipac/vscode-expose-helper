@@ -84,7 +84,7 @@ export default class CommandController {
     const relativePath = extensionConfig.relativePath || '.';
 
     return {
-      executablePath: 'exposee',
+      executablePath: 'expose',
       rootPath: this.context.getRootPath()!, // TODO handle optionality
       extensionPath: this.context.extension.path,
       relativePath,
