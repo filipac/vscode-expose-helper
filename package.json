@@ -2,7 +2,7 @@
   "name": "expose-helper",
   "displayName": "Expose Helper",
   "description": "Manage Expose server which is a completely open-source ngrok alternative - written in pure PHP.",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "Filipac",
   "icon": "icon.png",
   "repository": {
