@@ -4,6 +4,7 @@
   "description": "Manage Expose server which is a completely open-source ngrok alternative - written in pure PHP.",
   "version": "0.1.0",
   "publisher": "Filipac",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/filipac/vscode-expose-helper.git"
